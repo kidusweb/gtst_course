@@ -1,1 +1,1 @@
-# gtst_course
+This is note written while taking the Geez Tech Security Tester® course.
